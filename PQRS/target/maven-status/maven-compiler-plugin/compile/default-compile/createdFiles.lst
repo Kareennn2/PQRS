@@ -1,0 +1,17 @@
+servlets\DeletePQRS.class
+clases\ListarUsuariosServlet.class
+clases\DatabaseConnection.class
+servlets\EditPQRS.class
+servlets\LoginServlet.class
+servlets\RegisterServlet.class
+servlets\AdminLoginServlet.class
+servlets\PQRSHandlerServlet.class
+servlets\AdminAccessServlet.class
+servlets\UploadPDFServlet.class
+clases\PQRS.class
+servlets\DownloadPDFServlet.class
+clases\Administrador.class
+clases\GestionAdministrador.class
+clases\Usuario.class
+clases\GestionUsuario.class
+clases\GestionPqrs.class
